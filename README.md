@@ -8,7 +8,7 @@
 #### Studing in CSE at Bangabandhu Sheikh Mujibur Rahman Sciecne and Technology University, Gopalganj-8100, Bangladesh.
 - I'm  pationate about C++,Java, JavaScript,React js 
 - I'm currently learning React.js
-- Working on a Machine Learning
+- I'm competetive programmer.💻
 - How to reach me: <a href="mailto: bishworupmollik@gmail.com">bishworupmollik@gmail.com</a>
 <hr>
 
